@@ -1,5 +1,0 @@
-- Criar estrutura do bd
-- Criar importador de produtos
-- Criar regras de pagamento
-- Integrar sandbox mercadopago
-- Terminar postman pagstar
